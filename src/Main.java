@@ -10,6 +10,7 @@ public class Main {
         task8 ();
         task9 ();
         task10 ();
+        System.out.println("Каждый день котики толкают стакан прогресса к концу стола деградации...");
     }
     public static void task1 () {
         System.out.println("Задача 1");
